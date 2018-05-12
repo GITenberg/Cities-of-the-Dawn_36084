@@ -1,0 +1,36 @@
+_repo: Cities-of-the-Dawn_36084
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36084-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ritchie, J. Ewing (James Ewing)
+    alias: Ritchie, James Ewing
+    birthdate: 1820
+    deathdate: 1898
+    gutenberg_agent_id: '34770'
+    url: http://www.gutenberg.org/2009/agents/34770
+description: ''
+gutenberg_issued: '2011-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Cities and towns, Ancient'
+- !lcsh 'Travel'
+- !lcsh 'Mediterranean Region -- Description and travel'
+tableOfContents: A run across France -- Off to Naples -- Naples of to-day -- Pompeii
+  and Vesuvius -- The isles of the Mediterranean -- About Athens -- Constantinople
+  -- Smyrna -- Jaffa to Jerusalem -- The Holy City -- Bethlehem -- The Jew in Jerusalem
+  -- Alexandria -- In Cairo -- The pyramids and the Sphinx -- The river Nile -- The
+  return to Marseilles -- Avignon -- The great city of Lyons -- Dijon, or the wine
+  country -- Books of reference.
+title: "Cities of the Dawn\r\nNaples - Athens - Pompeii - Constantinople - Smyrna\
+  \ - Jaffa - Jerusalem - Alexandria - Cairo - Marseilles - Avignon - Lyons - Dijon"
+url: http://www.gutenberg.org/ebooks/36084
